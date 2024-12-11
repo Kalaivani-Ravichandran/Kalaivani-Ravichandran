@@ -1,4 +1,4 @@
-- 👋 👀 I’m passionate about Data Science, with interests in leveraging data to solve real-world problems.
+👋 👀 I’m passionate about Data Science, with interests in leveraging data to solve real-world problems.
 🌱 I’m currently advancing my knowledge in Data Science Analytics and Engineering.
 💞️ I’m looking to collaborate on data-driven projects, machine learning models, and impactful analytics solutions.
 📫 How to reach me: kalaivani.r8055@gmail.com
