@@ -1,5 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)]
-<h1 align="center">Hi 👋, I'm Kalaivani Ravichandran</h1>
+![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)
+<h1 align="center">Hi, I'm Kalaivani Ravichandran</h1>
 <h3 align="center">Aspiring Data Scientist and AI/ML Enthusiast</h3>
 
 
